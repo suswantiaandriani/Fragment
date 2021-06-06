@@ -126,7 +126,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
         android:background="@drawable/button_bg"
-        android:text="Login" />
+        android:text="SingUp" />
 
 
 </LinearLayout>
